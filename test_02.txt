@@ -1,2 +1,10 @@
 test_02.txt
-2023-05-11 15:41:01
+2023-05-11 15:41:01              
+2023-05-11    16:36:47      
+2023-05-11 16:40:45
+hier einfach Zeile mit Leerzeichen am Ende          
+und hier - nicht
+
+
+
+
